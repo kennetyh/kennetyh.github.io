@@ -12,6 +12,8 @@ I am a PhD student at ETH Zürich and I am highly passionate about the field of 
 
 As of September 2019 I joined ETH Zürich as a PhD student under the supervision of [Prof Gisbert Schneider](https://cadd.ethz.ch/people/gisbert_Schneider.html) working on machine learning for drug discovery. This includes the application of E3-equivariant point convolution networks, language models and ab initio first principles calculations of electronic properties. 
 
-I was born and grew up in the beautiful city of Basel. Before attending the University there, I was an apprentice with Dr Peter Mohr at Roche working on drug discovery for cardiovascular diseases. 
+Find my CV [here](https://kennetyh.github.io/files/CV_Kenneth.pdf) 
 
-Besides research, my hobbies include photography, traveling, surfing, swimming in the Rhein, running and german literature.
+I was born and grew up in the beautiful city of Basel. Before attending the University there, I was an apprentice with Dr Peter Mohr at Roche, working on drug discovery for cardiovascular diseases. 
+
+Besides research, my hobbies include photography, traveling, surfing, swimming in the Rhein, running and German as well as English literature.
