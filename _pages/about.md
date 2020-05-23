@@ -20,4 +20,4 @@ Find my CV [here](https://kennetyh.github.io/files/CV_Kenneth.pdf)
 
 I was born and grew up in the beautiful city of Basel. Before attending the University there, I was an apprentice with Peter Mohr at Roche, working on drug discovery for cardiovascular diseases. 
 
-Besides research, my hobbies include photography, traveling, surfing, festivals, swimming in the Rhein, running and German as well as English literature.
+My hobbies include photography, traveling, art and architecture. To my favorite museums count the [Fondation Beyler](https://www.fondationbeyeler.ch/) in Riehen and the [Tate Modern](https://www.tate.org.uk/visit/tate-modern) in London. The later was built by Jaques Herzog and Pierre De Meuron, most likely the two most influential Swiss architects. I additionally like festivals, live concerts, swimming in the Rhein and running.
