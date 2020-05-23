@@ -14,4 +14,4 @@ As of September 2019 I joined ETH Zürich as a PhD student under the supervision
 
 I was born and grew up in the beautiful city of Basel. Before attending the University there, I was an apprentice with Dr Peter Mohr at Roche working on drug discovery for cardiovascular diseases. 
 
-Besides research, my hobbies include photography, traveling, surfing, running and german literature.
+Besides research, my hobbies include photography, traveling, surfing, swimming in the Rhein, running and german literature.
