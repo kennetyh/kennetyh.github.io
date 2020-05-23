@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,8 @@ I am a PhD student at ETH Zürich and I am highly passionate about the field of 
 As of September 2019 I joined ETH Zürich as a PhD student under the supervision of [Prof Gisbert Schneider](https://cadd.ethz.ch/people/gisbert_Schneider.html) working on machine learning for drug discovery. This includes the application of E3-equivariant point convolution networks, language models and ab initio first principles calculations of electronic properties. 
 
 Find my CV [here](https://kennetyh.github.io/files/CV_Kenneth.pdf) 
+
+### A bit more personal
 
 I was born and grew up in the beautiful city of Basel. Before attending the University there, I was an apprentice with Dr Peter Mohr at Roche, working on drug discovery for cardiovascular diseases. 
 
