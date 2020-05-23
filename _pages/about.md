@@ -16,4 +16,4 @@ Find my CV [here](https://kennetyh.github.io/files/CV_Kenneth.pdf)
 
 I was born and grew up in the beautiful city of Basel. Before attending the University there, I was an apprentice with Dr Peter Mohr at Roche, working on drug discovery for cardiovascular diseases. 
 
-Besides research, my hobbies include photography, traveling, surfing, swimming in the Rhein, running and German as well as English literature.
+Besides research, my hobbies include photography, traveling, surfing, festivals, swimming in the Rhein, running and German as well as English literature.
