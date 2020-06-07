@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning and Drug Science"
+title: "Kenneth Atz"
 excerpt: "Kenneth"
 author_profile: true
 redirect_from: 
