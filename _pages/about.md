@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kenneth Atz"
+title: "About me"
 excerpt: "Kenneth"
 author_profile: true
 redirect_from: 
